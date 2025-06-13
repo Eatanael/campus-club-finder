@@ -19,4 +19,4 @@ Open `http://localhost:5173` to view the app during development.
 
 ## Screenshots
 
-See [DOCUMENTATION.md](campus-club-finder/DOCUMENTATION.md) for screenshots and walkthrough.
+See [DOCUMENTATION.md](/DOCUMENTATION.md) for screenshots and walkthrough.
